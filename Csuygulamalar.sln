@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SAYMA", "Csuygulamalar\SAYMA.csproj", "{84ACE430-61C7-4E5B-BED1-C8FD2945063C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sayıbulmaoyunu", "Sayıbulmaoyunu\Sayıbulmaoyunu.csproj", "{F3502CEC-FBB6-49C3-B48D-BCAB39A5D328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissor", "RockPaperScissor\RockPaperScissor.csproj", "{19F1A9EF-1EF7-4E8A-99E7-E1804670A1CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84ACE430-61C7-4E5B-BED1-C8FD2945063C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84ACE430-61C7-4E5B-BED1-C8FD2945063C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84ACE430-61C7-4E5B-BED1-C8FD2945063C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84ACE430-61C7-4E5B-BED1-C8FD2945063C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3502CEC-FBB6-49C3-B48D-BCAB39A5D328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3502CEC-FBB6-49C3-B48D-BCAB39A5D328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3502CEC-FBB6-49C3-B48D-BCAB39A5D328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3502CEC-FBB6-49C3-B48D-BCAB39A5D328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19F1A9EF-1EF7-4E8A-99E7-E1804670A1CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19F1A9EF-1EF7-4E8A-99E7-E1804670A1CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19F1A9EF-1EF7-4E8A-99E7-E1804670A1CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19F1A9EF-1EF7-4E8A-99E7-E1804670A1CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCBE86B2-A220-4C43-A822-35FD0859B1A8}
+	EndGlobalSection
+EndGlobal
